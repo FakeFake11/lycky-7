@@ -67,8 +67,8 @@ public class App {
 
                 System.out.println("Thanks for  playing");
                  break;
-                 
-            if(testaus)
+
+            if(muutan testaukseen)
             } 
 
     }
