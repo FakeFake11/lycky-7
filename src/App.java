@@ -68,7 +68,7 @@ public class App {
                 System.out.println("Thanks for  playing");
                  break;
 
-            if(muutan testaukseen)
+                //Koodi on valmis, kaikki toimi
             } 
 
     }
